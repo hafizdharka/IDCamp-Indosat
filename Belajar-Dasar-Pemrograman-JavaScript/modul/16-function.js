@@ -21,6 +21,7 @@ function addWith2(value, addingValue){
 const result3 = addWith2(0,1);
 console.log(`result is ${result3}`); // Output result3 is 1
 
+
 const result4 = addWith2(result3,1);
 console.log(`result is ${result4}`); 
 
